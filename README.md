@@ -1,4 +1,4 @@
-# Check signed commits in PR
+# Check signed commits in PR c
 
 A GitHub Action that checks the commits of the current PR and fails if it contains unsigned commits. It also places a comment in the PR to inform the author about next steps.
 
