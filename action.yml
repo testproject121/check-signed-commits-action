@@ -1,4 +1,4 @@
-name: Check Signed Commits in PR
+name: Check Signed Commits in PRf
 description: Ensure PRs don't contain unsigned commits and help getting started with commit signing.
 branding: 
   icon: check
